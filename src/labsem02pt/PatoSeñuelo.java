@@ -8,7 +8,7 @@ package labsem02pt;
  *
  * @author sistemas
  */
-public class PatoSeñuelo extends pato implements volable,cuaqueable {
+public class patoSeñuelo extends pato implements volable,cuaqueable {
     
         @Override 
     public void mostrar(){
